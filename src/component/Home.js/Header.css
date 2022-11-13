@@ -1,0 +1,168 @@
+
+header{
+    background: url("../img/3.jpg") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    overflow: hidden;
+    max-width: 100%;
+    padding: 25px 0px;
+    margin-top: 0px;
+}
+header .row{
+    margin: 50px 0;
+}
+header .order{
+    background-color: #ab3550;
+    color: #fff;
+}
+
+header .Learn{
+    background-color: #fff;
+}
+
+header h1{
+    color: #4f0517;
+    font-size: 55px;
+    line-height: 60px;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bold;
+    width: 80%;
+}
+
+
+header button{   
+    height: 50px;
+    width: 150px;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: bold;
+    margin: 20px 10px 20px 0px;
+
+}
+.order:hover{
+     color: #ab3550;
+    background-color: #fff;
+    transition: .2s ease;
+
+}
+.Learn:hover {
+     border: 1px solid #ab3550;
+    color: #ab3550;
+    transition: .2s ease;
+    background-color: #fff;
+
+}
+
+header p{
+    color: rgb(159, 148, 148);
+    margin: 15px 0px;
+    font-family: 'Tajawal', sans-serif;
+
+}
+/* ///////// */
+.numbers{
+    background-color: #ab3550;
+    color: #fff;
+    padding: 10px 20px 10px 150px ;
+    
+}
+
+
+
+
+
+
+
+
+
+/* ///////// */
+
+.pride{
+       display: flex; 
+   align-items: center; 
+   justify-content: center;
+
+} 
+
+.pride{
+    background-color: transparent;
+    height: auto;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 25px 0px;
+    margin-top: 60px;
+}
+.pride img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+.pride h2{
+    font-size: 35px;
+    font-weight: bold;
+    width: 80%;
+    line-height: 50px;
+    margin: 10px opx;
+    color: #320a14;
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+
+.pride p{
+    font-size: 1rem;
+    width: 60%;
+    line-height: 28px;
+    color: #65585b;
+    font-family: 'Tajawal', sans-serif;
+    margin-top: 15px;
+}
+
+
+.pride button{
+    border: 2px solid #ab3550;
+    background-color: #ab3550;
+    box-sizing: border-box;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+.pride button a{
+  color: #fff;  
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+}
+.pride button:hover a{
+    color: #ab3550;
+    transition: .2s ease;
+}
+.pride button:hover{
+    background-color: #fff;
+    transition: .2s ease;
+}
+/* make */
+.make{
+    background-color: transparent;
+    height: auto;
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 25px 0px;
+    margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
